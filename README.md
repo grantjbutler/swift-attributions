@@ -1,5 +1,8 @@
 # swift-attributions
 
+> [!NOTE]
+> swift-attributions is in an alpha state. It's being used in a yet-to-ship project I'm working on, but may have issues not discovered yet, and may not fully cover all use cases across all UI frameworks.
+
 swift-attributions is a package that automatically detects the licenses for your SPM packages, copies them into your application, and manages UI to render the licenses.
 
 ## Installation
