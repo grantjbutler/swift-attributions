@@ -16,6 +16,8 @@ final class AttributionViewController: UIViewController {
         self.attribution = attribution
         
         super.init(nibName: nil, bundle: nil)
+        
+        title = attribution.name
     }
     
     required init?(coder: NSCoder) {
